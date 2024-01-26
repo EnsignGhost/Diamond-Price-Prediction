@@ -13,9 +13,11 @@ color: Color of Diamond
 clarity: Diamond clarity is a measure of the purity and rarity of the stone, graded by the visibility of these characteristics under 10-power magnification.
 depth: The depth of the diamond is its height (in millimetres) measured from the culet (bottom tip) to the table (flat, top surface)
 table: A diamond's table is the facet which can be seen when the stone is viewed face up.
+
 x : Diamond X dimension
 y: Diamond Y dimension
 z: Diamond Z dimension
+
 Target variable:
 price: Price of the given Diamond.
 Dataset Source Link : https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv
