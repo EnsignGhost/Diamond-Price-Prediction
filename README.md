@@ -1,6 +1,6 @@
 # Diamond - Price - Prediction
 
-- [LinkedIn]((https://www.linkedin.com/in/dipk-kumar/))
+- [LinkedIn]([https://www.linkedin.com/in/dipk-kumar/])
   
 
 ## About The Project
